@@ -67,10 +67,6 @@ ul {
 
 /* 
  * Completely resets form items
- * ----------------------------
- * Super hard reset that removes all borders
- * and radiuses of all form items (including
- * checkboxes and radios)
  */
 
 input,
@@ -111,7 +107,7 @@ html {
 
 body {
   align-items: center;
-  background-image: linear-gradient(236deg, #74ebd5, #acb6e5);
+  background-image: linear-gradient(236deg, #f056e8, #f5bff2);
   display: flex;
   height: 100vh;
   justify-content: center;
